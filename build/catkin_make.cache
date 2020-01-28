@@ -1,0 +1,2 @@
+trutlebot/turtlebot:trutlebot/turtlebot_bringup:trutlebot/turtlebot_capabilities:trutlebot/turtlebot_description:trutlebot/turtlebot_teleop:turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr
+-DCATKIN_DEVEL_PREFIX=/home/anuragsahu/turtlebot_melodic_18/devel -DCMAKE_INSTALL_PREFIX=/home/anuragsahu/turtlebot_melodic_18/install -G Unix Makefiles
